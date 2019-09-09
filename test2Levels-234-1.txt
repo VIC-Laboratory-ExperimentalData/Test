@@ -1,0 +1,62 @@
+﻿*** Header Start ***
+VersionPersist: 1
+LevelName: Session
+LevelName: Block
+LevelName: Trial
+LevelName: SubTrial
+LevelName: LogLevel5
+LevelName: LogLevel6
+LevelName: LogLevel7
+LevelName: LogLevel8
+LevelName: LogLevel9
+LevelName: LogLevel10
+Experiment: test2Levels
+SessionDate: 09-06-2019
+SessionTime: 19:00:13
+SessionStartDateTimeUtc: 2019-09-06 23:00:13
+Subject: 234
+Session: 1
+DataFile.Basename: test2Levels-234-1
+RandomSeed: -1561190033
+Group: 1
+Display.RefreshRate: 60.059
+*** Header End ***
+	Level: 2
+	*** LogFrame Start ***
+	Triallist: 1
+	Procedure: OneTrial
+	stim: Allo
+	Triallist.Cycle: 1
+	Triallist.Sample: 1
+	Running: Triallist
+	ExperimentStuff.RT: 364
+	*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	Triallist: 2
+	Procedure: OneTrial
+	stim: Aurevoir
+	Triallist.Cycle: 1
+	Triallist.Sample: 2
+	Running: Triallist
+	ExperimentStuff.RT: 322
+	*** LogFrame End ***
+Level: 1
+*** LogFrame Start ***
+Experiment: test2Levels
+SessionDate: 09-06-2019
+SessionTime: 19:00:13
+SessionStartDateTimeUtc: 2019-09-06 23:00:13
+Subject: 234
+Session: 1
+DataFile.Basename: test2Levels-234-1
+RandomSeed: -1561190033
+Group: 1
+Display.RefreshRate: 60.059
+Clock.Information: <?xml version="1.0"?>\n<Clock xmlns:dt="urn:schemas-microsoft-com:datatypes"><Description dt:dt="string">E-Prime Primary Realtime Clock</Description><StartTime><Timestamp dt:dt="int">0</Timestamp><DateUtc dt:dt="string">2019-09-06T23:00:13Z</DateUtc></StartTime><FrequencyChanges><FrequencyChange><Frequency dt:dt="r8">2742304</Frequency><Timestamp dt:dt="r8">4825981872838</Timestamp><Current dt:dt="r8">0</Current><DateUtc dt:dt="string">2019-09-06T23:00:13Z</DateUtc></FrequencyChange></FrequencyChanges></Clock>\n
+StudioVersion: 2.0.10.252
+RuntimeVersion: 2.0.10.356
+RuntimeVersionExpected: 2.0.10.356
+RuntimeCapabilities: Professional
+ExperimentVersion: 1.0.0.548
+*** LogFrame End ***
