@@ -1,1 +1,1 @@
-Test of BornOpenData for Test on COMPUTERNAME=1907-5FJ9NC2 on DATE=2019-09-10:12:41 RND=418  
+Test of BornOpenData for AnExperiment on COMPUTERNAME=1907-5FJ9NC2 on DATE=2019-09-10:12:45 RND=776  
