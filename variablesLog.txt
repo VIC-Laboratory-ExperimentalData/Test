@@ -1,0 +1,22 @@
+"Experiment"              string        Name of the experiment
+"SessionDate"             dd-mm-yyyy    Date the experiment was run
+"SessionTime"             hh-mm-ss      Time the experiment was run
+"SessionStartDateTimeUtc" yyyy-mm-dd hh-mm-ss Universal date and time the experiment was run
+"Subject"                 integer       subject number 
+"Session"                 integer       session number
+"DataFile.Basename"       string        file name of the data file
+"RandomSeed"              integer       random seed
+"Group"                   integer       group number (default if none specified of 1)
+"Display.RefreshRate"     real          refresh rate in hz
+"StudioVersion"           string        version number of E-studio
+"RuntimeVersion"          string        version number of E-Run
+"RuntimeVersionExpected"  string        expected versino of E-Run
+"RuntimeCapabilities"     string        version of E-Run
+"ExperimentVersion"       string        version of the experiment
+"Eprime.LevelName"        string        level within the layer
+"Procedure"               string        name of the procedure
+"Running"                 string        name of the list
+"stim"                    string        stimulus presented
+"Cycle"                   integer        cycle in the list
+"Sample"                  integer        position in the list
+"ExperimentStuff.RT"      integer       response time (in ms)
