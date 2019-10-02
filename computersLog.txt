@@ -1,0 +1,1 @@
+COMPUTERNAME=1907-5FJ9NC2   Located in VNR-3029d; screen refresh rate 85 hz; calibrated 2018/09/10
