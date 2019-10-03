@@ -17,6 +17,6 @@
 "Procedure"               string        name of the procedure
 "Running"                 string        name of the list
 "stim"                    string        stimulus presented
-"Cycle"                   integer        cycle in the list
-"Sample"                  integer        position in the list
+"Cycle"                   integer       cycle in the list
+"Sample"                  integer       position in the list
 "ExperimentStuff.RT"      integer       response time (in ms)
