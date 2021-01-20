@@ -1,1 +1,0 @@
-Test of BornOpenData for RSP-Version2021 on COMPUTERNAME=1907-5FJ9NC2 on DATE=2021-01-20:16:07 RND=32  
