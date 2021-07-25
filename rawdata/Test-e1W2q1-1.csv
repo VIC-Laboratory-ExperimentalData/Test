@@ -1,0 +1,8 @@
+rt,stimulus,key_press,trial_type,trial_index,time_elapsed,internal_node_id
+1337,"Welcome to this experiment, press the {space bar} to start.",32,html-keyboard-response,0,1341,0.0-0.0
+,,,BornOpen4jsPsych-Initialize,1,29414,0.0-1.0
+null,+,null,html-keyboard-response,2,30170,0.0-2.0-0.0-0.0
+1893,right!,74,html-keyboard-response,3,32066,0.0-2.0-0.0-1.0
+null,+,null,html-keyboard-response,4,32819,0.0-2.0-0.1-0.1
+276,left!,74,html-keyboard-response,5,33097,0.0-2.0-0.1-1.1
+778,Thank you for your participation. Press the {space bar} to end the experiment.,32,html-keyboard-response,6,33876,0.0-3.0
