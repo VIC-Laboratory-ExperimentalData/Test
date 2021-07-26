@@ -1,5 +1,13 @@
 # Test
-This repository is for testing the package BornOpenData.epk2 and the R function readBornOpenData.eprime2.
+This repository is for testing the BornOpen tools.
 
-test
+There is currently 
+- BornOpenData4E-Prime.epk2 with its R function readBornOpenData.eprime2, a package for E-Prime.
+- BornOpenData4jsPsych.js, a plugin for jsPsyc
+
+The repository Test receives the data files from either of these during beta testing.
+
+The package BornOpenData4E-Prime was used in Maxcey, Shiffrin, Cousineau, & Atkinson (submitted in 2021, PB&R).
+
+
 
