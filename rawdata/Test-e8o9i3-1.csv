@@ -1,0 +1,8 @@
+rt,stimulus,key_press,trial_type,trial_index,time_elapsed,internal_node_id
+18795.800000000017,"Welcome to this experiment.Your task it to press \j\ if the word \right\ is presented,and \f\ is the word \left\ if presented.Press the space bar to start.",32,html-keyboard-response,0,18853,0.0-0.0
+,,,BornOpen4jsPsych-Initialize,1,36656,0.0-1.0
+null,+,null,html-keyboard-response,2,37424,0.0-2.0-0.0-0.0
+931,right!,74,html-keyboard-response,3,38357,0.0-2.0-0.0-1.0
+null,+,null,html-keyboard-response,4,39116,0.0-2.0-0.1-0.1
+676.8999999999942,left!,70,html-keyboard-response,5,39795,0.0-2.0-0.1-1.1
+null,Thank you for your participation. You can close this page.,null,html-keyboard-response-noerase,6,39797,0.0-3.0
