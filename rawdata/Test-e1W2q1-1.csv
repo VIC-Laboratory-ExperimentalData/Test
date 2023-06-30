@@ -1,8 +1,8 @@
 rt,stimulus,key_press,trial_type,trial_index,time_elapsed,internal_node_id
-1036,"Welcome to this experiment.Your task it to press \j\ if the word \right\ is presented,and \f\ is the word \left\ if presented.Press the space bar to start.",32,html-keyboard-response,0,1039,0.0-0.0
-,,,BornOpen4jsPsych-Initialize,1,6252,0.0-1.0
-null,+,null,html-keyboard-response,2,7009,0.0-2.0-0.0-0.0
-1059,right!,70,html-keyboard-response,3,8073,0.0-2.0-0.0-1.0
-null,+,null,html-keyboard-response,4,8829,0.0-2.0-0.1-0.1
-196,left!,70,html-keyboard-response,5,9030,0.0-2.0-0.1-1.1
-null,Thank you for your participation. You can close this page.,null,html-keyboard-response-noerase,6,9032,0.0-3.0
+15658,"Welcome to this experiment.Your task it to press \j\ if the word \right\ is presented,and \f\ is the word \left\ if presented.Press the space bar to start.",32,html-keyboard-response,0,15667,0.0-0.0
+,,,BornOpen4jsPsych-Initialize,1,44071,0.0-1.0
+null,+,null,html-keyboard-response,2,44840,0.0-2.0-0.0-0.0
+2124,left!,70,html-keyboard-response,3,46965,0.0-2.0-0.0-1.0
+null,+,null,html-keyboard-response,4,47724,0.0-2.0-0.1-0.1
+736,right!,74,html-keyboard-response,5,48462,0.0-2.0-0.1-1.1
+null,Thank you for your participation. You can close this page.,null,html-keyboard-response-noerase,6,48465,0.0-3.0
